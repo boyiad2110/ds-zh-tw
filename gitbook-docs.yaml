@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Draw Steel 中文規則站
+  structure:
+    - type: space
+      key: space-rules-zh-tw
+      title: Draw Steel 繁體中文規則
+      path: rules
+      default: true
+      content:
+        directory: ./
